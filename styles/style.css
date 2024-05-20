@@ -5,13 +5,15 @@
 }
 
 .container {
-    width: 720px;
-    margin: 200px auto;
+    width: 900px;
+    margin: 35px auto;
     text-align: center;
 }
 
-#description {
-    width: 760px;
+.description {
+    width: 750px;
+    margin-top: 2rem;
+    margin-left: 4.5rem;
 }
 
 h1 {
@@ -19,7 +21,7 @@ h1 {
 }
 
 h4 {
-    margin-top: 4rem;
+    margin-block: 4rem 1rem;
 }
 
 li {
