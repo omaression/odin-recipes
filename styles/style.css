@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 720px;
+    margin: 200px auto;
+    text-align: center;
+}
+
+#description {
+    width: 760px;
+}
+
+h1 {
+    margin-bottom: 3rem;
+}
+
+h4 {
+    margin-top: 4rem;
+}
+
+li {
+    list-style: none;
+    margin-bottom: 0.6rem;
+}
